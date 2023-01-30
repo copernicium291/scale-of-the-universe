@@ -1,0 +1,293 @@
+		1.330000e-64	Neutrino Swarzchild Radius			The Swarzchild radius of an object is the radius of a black hole with that object's mass but no angular momentum or electric charge. Although neutrinos have no eletric charge, they have a lot of angular momentum compared to their mass and are not black holes. Additionally, the Swarzchild radius only applies to general relativity, and does not consider the effects of quantum mechanics.
+		2.706000e-57	Electron Swarzchild Radius			A black hole with the mass of an electron would have this size. Due to the electron's electric charge and angular momentum, electrons cannot collapse into black holes. Even if a black hole this small existed, quantum gravity effects would very likely make such an object impossible.
+		1.000000e-48	Quantum Foam (INTEGRAL)				
+planck length	1.616255e-35	Planck Length					
+spin foam	3.000000e-35	Spin Foam					I don't think I'm able to give any information on spin foam other than the fact that it is like quantum foam but specifically for loop quantum gravity (LQG).
+omg particle	3.900000e-27	Oh-My-God Particle				The Oh-My-God particle was an ultra-high-energy cosmic ray detected in 1991 with an energy exceeding 3×10^20 electronvolts.
+electron	1.000000e-22	Electron (maximum, substructure)		Electrons are believed to be elementary particles.
+lhc proton	1.820000e-19	LHC Proton					Massive particles can behave like waves. The de Broglie wavelength is the wavelength of these matter waves, and depends on the particle's mass and velocity (or momentum or kinetic energy.) For protons in the Large Hadron Collider with energies of about 6.8 TeV this wavelength is 180 zeptometers.
+top quark	7.167000e-18	Top Quark (Compton Wavelength)			I chose the top quark's size measurement differently than the other quarks. I chose to use the Compton wavelength because top quarks are not known to form hadrons, so they should not be in a hadron.
+weak force	2.720000e-17	Weak Force Range				The distances where the weak nuclear force can affect two particles depends on the distance scales of the interaction. This is limited to about 13.6 attometers by the weak bosons having mass.
+tauon		6.978000e-16	Tauon (Compton Wavelength)			
+bottom quark	7.300000e-16	Botttom Quark					
+charm quark	1.268000e-15	Charm Quark					
+neutron		1.600000e-15	Neutron						Neutrons are neutral particles inside atoms. They stabilize atomic nuclei and are responsible for th existence of different isotopes of elements.
+proton		1.683000e-15	Proton						Protons are positively charged particles that are in atoms. The atomic number of an element is equal to the number of protons it its atoms' nuclei.
+strange quark	3.000000e-15	Strange Quark					
+alpha particle	3.356000e-15	Alpha Particle					Helium-4 is the most common nucleus in the universe other than free protons. Main sequence stars use various processes to convert 4 hydrogen-1 nuclei into a helium-4 nucleus. Additionally, when very heavy nuclei such as uranium, thorium, radon, and curium are produced in stars, many of them decay by releasing alpha particles. Nuclear decay is the source of almost all helium on Earth.
+down quark	3.700000e-15	Down Quark					You may have noticed that the up and down quarks are listed as being larger than the protons and neutrons they make up. This is not a mistake. This size is simply the wavelength of a matter wave with the mass of a quark and one third the QCD binding energy of a nucleon.
+up quark	3.700000e-15	Up Quark					Up quarks are one of two kinds of quarks found in atoms. Protons have two and neutrons have one. Quarks don't really have a definite size, so I've used their de Broglie wavelengths when in hadrons.
+deuteron	4.252000e-15	Deuteron					Most hydrogen in the universe is hydrogen-1, which just has a proton as its nucleus. The nucleus of hydrogen-2, or deuterium, is called a deuteron and contains a neutron in addition to the proton. Because a deuterium atom has twice the mass of a hydrogen-1 atom, hydrogen-1 and hydrogen-2 are much more chemically different than isotopes of other elements are. For example, water made with deuterium freezes at 4°C (39°F) instead of 0°C (32°F).
+carbon nucleus	4.940000e-15	Carbon Nucleus					Carbon-12 is a very significant nuclide in the cores of stars. Once a star runs out of hydrogen, it will collapse. If it's big enough, the compression caused by the star's gravity will heat the core enough that helium nuclei can combine in groups of three to form carbon. In stars that are still fusing hydrogen (like our sun), carbon-12 can combine with four protons and release a helium nucleus, giving another way for some stars to make helium.
+oxygen nucleus	6.000000e-15	Oxygen Nucleus					Like electrons, protons and neutrons also fill in "shells" in an atom. The numbers that electrons need to fill shells are 2,10,18,36,54,86,118. For protons and neutrons the numbers are 2,8,20,28,50,82,126. Nuclei with these "magic numbers" of protons and/or neutrons are typically much more stable than expected. The fully stable nuclei with both proton and neutron shells filled are helium-4, oxygen-16, calcium-40, calcium-48, and lead-208.
+lithium-11	6.300000e-15	Lithium-11 Nucleus				The lithium-11 nucleus has 3 protons and 8 neutrons, 4 more neutrons than the more common and stable lithium-7. It lasts for about 0.01 seconds, over 1 quintillion times longer than lithium-10 or lithium-12. This is because 2 of its neutrons are in a "nuclear halo". Its nucleus has a core of 3 protons and 6 neutrons, surrounded by 2 halo neutrons.
+sulfur nucleus	7.000000e-15	Sulfur Nucleus					
+iron nucleus	1.000000e-14	Iron Nucleus					It's not actually true that the stellar fusion process ends at iron-56. Firstly, the iron actually comes from the decay of nickel-56 after the star has already exploded. Secondly, it's not even true that the fusion of nickel-56 consumes energy. Nickel-56 very commonly fuses into zinc-60, and the chain can theoretically continue for several more elements. However, the star's core is so hot that high-energy gamma rays typically destroy any nuclei heavier than nickel.
+muon		1.173444e-14	Muon (Compton Wavelength)			
+tin nucleus	1.300000e-14	Tin Nucleus					Tin has more stable isotopes than any other element. The nucleus shown here is for tin-122.
+lead nucleus	1.560000e-14	Lead Nucleus					
+uranium nucleus	1.600000e-14	Uranium Nucleus					
+oganesson-294	1.800000e-14	Oganesson Nucleus				Oganesson-294 is the heaviest confirmed nucleus. A nucleus of unbinilium-299 (and its decay product oganesson-295) may have been detected in 2011, but it is still unknown if it was actually produced, so oganesson-294 remains the heaviest nucleus discovered for now.
+muonic hydrogen	2.559277e-13	Muonic Hydrogen Atom				Muons are about 207 times heavier than electrons. This makes the muonic hydrogen atom (with a muon instead of an electron) about 207 times smaller than a normal hydrogen atom. The muon is actually 1/9 the mass of the proton nucleus.
+electroncompton	2.426310e-12	Electron (Compton Wavelength)			The Compton wavelength of a particle is equal to the wavelength of a photon with an energy equal to the particle's rest mass. The Compton wavelength was introduced to explain how high energy photons interact with electrons.
+solar neutrino	3.100000e-12	Solar Neutrino					Neutrinos are low-mass particles that rarely interact with matter. Solar neutrinos are neutrinos produced in the sun. These neutrinos have wavelengths of a few picometers.
+helium atom	6.200000e-11	Helium Atom					Helium atoms are the smallest atoms, but they usually don't get closer than several times this distance. This is because while the electrons are typically close to the nucleus, the atoms are far apart. If that measurement was used here, this atom would be more than 4 times larger than this.
+oxygen atom	9.600000e-11	Oxygen Atom					
+hydrogen atom	1.058926e-10	Hydrogen Atom					Hydrogen is the simplest atom, consisting of a nucleus (typically just a proton) and one electron. This makes it the only atom with a radius that is calculated from fundamental properties of physics/electrons without needing to measure it.
+carbon atom	1.340000e-10	Carbon Atom					Carbon is one of the elements required for all life on Earth. This is due to many reasons, such as being the fourth most common element in the universe, being able to form bonds with various elements in many ways, and its tendency to form long polymers.
+argon atom	1.420000e-10	Argon Atom					Argon is the most abundant component in Earth's air other than nitrogen and oxygen. It's been slowly created by the slight radioactivity of potassium-40 over the last 4 billion years, and now comprises about 1% of air. Because it was created by radioactive decay, Earth's argon (and the argon on similar planets like Mars) is about 11% heavier than the argon found in the rest of the universe.
+positronium	2.116709e-10	Positronium Atom				The positive charge in a hydrogen atom doesn't necessarily have to be a proton. It could be an antimuon, a charged pion, a lambda+ baryon, or in this case a positron, the antimatter counterpart of the electron. Unlike those other examples, positrons don't decay into other particles over time, but they do annihilate with electrons, giving positronium a short lifetime of under a millionth of a second.
+silicon atom	2.220000e-10	Silicon Atom					
+lithium atom	2.340000e-10	Lithium Atom					Alkali metal atoms are very large. Lithium, with 3 electrons, has larger atoms than xenon, which has 54.
+silver atom	2.700000e-10	Silver Atom					Silver, unlike copper and gold, does not absorb blue light in a way that gives it a visible color. Silver does absorb ultraviolet light though, so it may not be gray to some animals.
+water molecule	2.750000e-10	Water Molecule					I should probably mention that the sizes for molecules here are differently determined than for the atoms. The atomic radii are determined by typical distances from the outer electrons to the nucleus, but the molecule sizes are defined in a way closer to the normal meaning, even though small molecules like water don't have very well defined sizes.
+magnesium atom	2.900000e-10	Magnesium Atom					
+o2 molecule	2.900000e-10	Oxygen Molecule					Oxygen is the second most common gas in Earth's atmosphere. Oxygen is constantly being replenished by photosynthesis and being removed by respiration. If there is too much oxygen, oxygen won't be produced much and oxygen levels go down. If there isn't enough, oxygen won't be consumed much and oxygen levels go up. These two effects balance each other keeping Earth's air at 21% oxygen.
+n2 molecule	3.050000e-10	Nitrogen Molecule				Nitrogen is the most common molecule in Earth's atmosphere. More than 3/4 of the atmospere is nitrogen. It's commonly used as an inert gas when noble gases such as argon can't be used. Its stability comes from the triple bond between the nitrogen atoms.
+h electron	3.326000e-10	Hydrogen Electron				In a hydrogen atom, the electron has 13.6 eV of kinetic energy giving it a de Broglie wavelength of about 333 pm. This is actually 2π times the Bohr radius, which is commonly used to define the radius of a hydrogen atom.
+gold atom	3.480000e-10	Gold Atom					The nucleus of a gold atom has an electric charge 79 times higher than a proton. This causes the electrons to get so energetic that relativistic effects become significant, making gold's color more similar to copper than silver.
+calcium atom	3.960000e-10	Calcium Atom					
+potassium atom	4.860000e-10	Potassium Atom					
+caesium atom	5.960000e-10	Caesium Atom					
+francium atom	6.000000e-10	Francium Atom					
+buckyball	7.100000e-10	Buckminsterfullerene Molecule			
+glucose		9.000000e-10	Glucose Molecule				
+phospholipid	3.400000e-9	Phospholipid					
+		5.500000e-9	Haemoglobin Molecule				
+porcine		1.700000e-8	Porcine Circovirus				
+ribosome	3.000000e-8	Ribosome					
+flu		1.000000e-7	Influenza Virus					
+hiv		1.200000e-7	Human Immunodeficiency Virus			
+sarscov2	1.200000e-7	SARS-CoV-2					
+rabies virus	1.800000e-7	Rabies Virus					
+		4.000000e-7	Nanoarchaeum equitans				
+		5.000000e-7	Melanosome					Melanosomes are found in almost all animals. They create and store melanin, which is a pigment that gives some animals their colors. Some animals have different types of melanin. In humans, melanin causes the colors of skin, hair, and (partially) eyes.
+		6.000000e-7	Mycoplasma genitalium				
+clay particle	1.000000e-6	Clay Particle					
+lysosome	1.000000e-6	Lysosome					
+		1.500000e-6	Pithovirus					
+mitochondrion	2.000000e-6	Mitochondrion					Mitochondria are organelles in a cell that take the energy out of glucose molecules and put it into a much more useful form by basically just attaching phosphate ions to adenosine diphosphate (ADP) molecules to make adenosine triphosphate (ATP). When the cell needs this energy, it can easily remove a phosphate to release it. It's actually very hard to know what the size or shape of a mitochondrion is because they vary not only between species, but even within an individual cell. I could've put 1 µm, or 4 µm, or even 10 µm and still been entirely correct.
+		2.000000e-6	Escherichia coli				
+yeast		4.000000e-6	Yeast Cell					Yeast is a type of single-celled fungus used for many things such as baking and fermenting sugars. Some yeast cells are much bigger, but most are small.
+cell nucleus	6.000000e-6	Cell Nucleus					
+chloroplast	6.000000e-6	Chloroplast					
+redbloodcell	7.000000e-6	Red Blood Cell					Mammal red blood cells (including humans) are different from those of other animals in that they have no nucleus. 85% of your cells are red blood cells, and another 5-6% also have no nucleus. That means only about 1/10 of your cells have DNA.
+mist		1.000000e-5	Mist Dorplet					That was supposed to say "Mist Droplet," but unfortunately I mist-yped.
+		1.200000e-5	White Blood Cell				
+heavy neutrino	2.300000e-5	Neutrino (Compton Wavelength, Heaviest)		There are three kinds of neutrinos, each with a different mass. The lighter 2 masses aren't very well known, so this is a "wavelength" for the heaviest one. (The other two have longer wavelengths.)
+		3.000000e-5	Human Skin Cell					
+		5.000000e-5	Cone Cell					
+		1.200000e-4	Human Ovum					
+highdrogen	1.500000e-4	Hydrogen Atom (n=1200)				When the electron in a hydrogen atom is given enough energy, it can move to the second electron shell. With even more it can move to the third. Some can have electrons past the hundredth energy level. When artificially created, these atoms must be kept away from any other matter that could give the electron enough energy to escape the atom, but in interstellar space they can form naturally due to the lack of other atoms. The most energetic electrons are around the 1200th electron shell.
+		1.500000e-4	Kikiki huna					
+		2.000000e-4	Paramecium					
+		2.500000e-4	Dust Mite					
+sandgrain	4.000000e-4	Sand Grain					
+amoeba proteus	5.000000e-4	Amoeba proteus					
+cosmic neutrino	1.000000e-3	Cosmic Neutrino					Cosmic neutrinos are neutrinos produced in the first second of the universe. They form a cosmic neutrino background with a temperature less than 2 kelvins. The low energy neutrinos have velocities less than 1% the speed of light and very long wavelengths.
+		1.500000e-3	Flea						
+chaos amoeba	2.000000e-3	Chaos carolinensis				
+		4.000000e-3	Ant						
+		1.000000e-2	Thiomargarita magnifica				
+		1.000000e-2	Bee						"According to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway because bees don't care what humans think is impossible." - Bee Movie (2007)
+ipk		3.900000e-2	International Prototype Kilogram		The IPK previously was the only object with an exact known mass, because it was used to define what a kilogram is. In 2019, the kilogram was later redefined based on a fundamental physical constant so that the kilogram wouldn't change over time.
+golfball	4.300000e-2	Golf Ball					
+ball		7.400000e-2	Baseball					
+		8.000000e-2	Apple						
+		2.200000e-1	Soccer Ball					
+basketball	2.400000e-1	Basketball					
+		1.690000e-0	Human						
+human genome	2.066200e-0	Human Genome					This is the average human genome, though about half of humans have a 2.0823 meter genome, and the other half a 2.0500 meter one. The reason for the two genome lengths is that the Y chromosome is about 100 million base pairs longer than the X chromosome.
+		3.000000e-0	Sunflower					
+		3.200000e-0	African Bush Elephant				
+		5.500000e+0	Giraffe						
+		2.400000e+1	Blue Whale					
+		9.347000e+1	Statue of Liberty				
+		1.090000e+2	International Space Station			
+football field	1.097280e+2	Football Field					
+		1.106000e+2	Saturn V					
+		1.159200e+2	Hyperion					
+washington	1.690460e+2	Washington Monument				The Washington Monument was the tallest building on Earth from 1884-1889. It's the tallest building (excluding radio towers) in Washington, D.C. It's named after George Washington, but it actually doesn't look like him.
+giza		2.303000e+2	Great Pyramid of Giza				
+eiffel		3.300000e+2	Eiffel Tower					
+apophis		4.500000e+2	Apophis						
+itokawa		5.350000e+2	Itokawa						
+cn tower	5.533000e+2	CN Tower					
+		6.340000e+2	Tokyo Skytree					
+burj khalifa	8.298000e+2	Burj Khalifa					
+		2.335000e+3	Three Gorges Dam				
+psr b0943+10	5.200000e+3	PSR B0943+10					
+lhc		8.500000e+3	Large Hadron Collider				The Large Hadron Collider is the largest particle collider in the world. It is located in France and Switzerland and can accelerate protons to 99.999999% the speed of light.
+		8.848860e+3	Mount Everest					
+rx j1856	1.400000e+4	RX J1856.5-3754					Neutron stars are formed when the matter in stellar cores is compressed so much that the electrons have filled all of the avaliable space and must fuse with protons to form neutrons. RX J1856.5-3754 is the closest neutron star to Earth.
+deimos		1.500000e+4	Deimos						
+eros		1.690000e+4	Eros						
+lich		2.000000e+4	Lich						Lich is a neutron star, and also the first star other than the sun confirmed to have planets.
+manhattan	2.112127e+4	Manhattan					
+phobos		2.700000e+4	Phobos						Phobos is the larger of the two moons of Mars. It orbits faster than the planet rotates and will eventually fall into Mars by tidal acceleration, the same force making our moon recede away. When the moon orbits faster than the planet's rotation, tidal acceleration actually reduces the distance between them.
+crab pulsar	3.000000e+4	Crab Pulsar					
+ganymed		3.930000e+4	Ganymed						
+cygnus x1	6.300000e+4	Cygnus X-1					
+nereid		3.570000e+5	Nereid						Nereid is the third largest moon of Neptune. It takes about 1 year to orbit. Neptune's moons can have such long orbits because they are very far from the sun, which would stop long orbits on most of the other planets.
+hyperionmoon	3.602000e+5	Hyperion					Only about half of Hyperion is actually solid. The rest is empty space. Effects from the gravity of the other moons of Saturn cause Hyperion to rotate chaotically, with no determinable axis or rotation rate.
+mimas		3.960000e+5	Mimas						
+proteus		4.240000e+5	Proteus						
+		4.500000e+5	Hygiea						
+		4.800000e+5	Miranda						
+enceladus	5.132000e+5	Enceladus					
+pallas		5.680000e+5	Pallas						
+vesta		5.726000e+5	Vesta						
+ceres		9.644000e+5	Ceres						
+		1.076800e+6	Tethys						
+cuba		1.093237e+6	Cuba						
+		1.128800e+6	Dione						
+charon		1.212000e+6	Charon						
+		1.430000e+6	Makemake					
+iapetus		1.492000e+6	Iapetus						
+		1.523000e+6	Oberon						
+		1.532800e+6	Rhea						
+		1.577000e+6	Titania						
+haumea		2.100000e+6	Haumea						
+eris		2.326000e+6	Eris						
+pluto		2.377000e+6	Pluto						
+greenland	2.684000e+6	Greenland					
+triton		2.707000e+6	Triton						
+europa		3.122000e+6	Europa						
+moon		3.476200e+6	Moon						
+io		3.660000e+6	Io						
+united state	4.745000e+6	United States					
+callisto	4.821000e+6	Callisto					
+mercury		4.880000e+6	Mercury						
+titan		5.149500e+6	Titan						Titan is the only moon to have a large atmosphere. It's also the only solar system body other than Earth to have liquid lakes on it. Titan's lakes are made mainly of liquid methane and ethane.
+ganymede	5.268000e+6	Ganymede					Ganymede is the largest and most massive moon in the solar system. It is larger than Mercury, but still less massive because mercury is made of dense rock and iron and Ganymede is half composed of ice.
+mars		6.792400e+6	Mars						Mars is the fourth closest planet to the sun. It may have had liquid water on its surface in the past, but now it is all either frozen or vaporized.
+		9.900000e+6	TRAPPIST-1h					
+		9.930000e+6	TRAPPIST-1d					
+sirius b	1.170000e+7	Sirius B					All of the visible light coming from Sirius is from Sirius A, but Sirius B has about 1/3 of the system's mass. White dwarf stars are too light to fuse the elements in their core (usually oxygen), so they collapse to the point where their electrons are physically incapable of getting any closer together, leaving a ball with the size of Earth but the mass of the sun.
+		1.174000e+7	TRAPPIST-1e					
+venus		1.210400e+7	Venus						
+earth		1.275627e+7	Earth						Earth is the only known planet to have life on it. It is also the only planet known to have liquid water on it.
+		1.333000e+7	TRAPPIST-1f					
+		1.400000e+7	TRAPPIST-1c					
+		1.423000e+7	TRAPPIST-1b					TRAPPIST-1b is a Venus-like planet orbiting the star TRAPPIST-1. It has a thick, hot atmosphere likely composed of carbon dioxide.
+		1.440000e+7	TRAPPIST-1g					
+		1.660000e+7	Proxima Centauri b				
+procyon b	1.720000e+7	Procyon B					Procyon is a binary star system with an F-type main sequence star, Procyon A, and a white dwarf, Procyon B. Procyon B is only 60% as massive as the sun.
+neptune		4.952800e+7	Neptune						
+uranus		5.111800e+7	Uranus						You might have thought I accidentally forgot to put any details on this planet, but no, this is just what it looks like. There are some features on it, but all of them are invisible. Oh also [insert joke about the pronunciation of Uranus]
+eblm j0555-57ab	1.200000e+8	EBLM J0555-57Ab					EBLM J0555-57Ab is 82 times as massive as Jupiter, but is still smaller. Objects between the masses of Jupiter and small red dwarf stars are all about the same size because their gravity compresses them so much. Stars are typically larger because of the force of their nuclear fusion pushing outwards. If EBLM J0555-57Ab were slightly less massive, it may not have even became a star.
+jupiter		1.429840e+8	Jupiter						
+trappist-1	1.660000e+8	TRAPPIST-1					TRAPPIST-1's planetary system is very similar to Jupiter's moon system, just more massive. Both are composed of a few large celestial bodies that are about the same size and are in a set of orbital resonances. It and its seven planets are 40 light-years from Earth.
+proxima		2.140000e+8	Proxima Centauri				Proxima Centauri is a red dwarf star. These are the smallest and coldest tyeps of main sequence stars. It is the second closest star to Earth, but it is so dim that it cannot be seen from Earth. It would need to be 100 times brighter to be visible. This is partially because most of its light is invisible infrared light.
+		2.980000e+8	HAT-P-67 b					HAT-P-67 b is about the mass of Saturn and is likely the largest exoplanet known. It's bigger than should be possible for any exoplanet because it is hot enough to inflate from the heat of its star. It is 6 times closer to HAT-P-67 than Mercury is to the sun. The proximity to its star makes the large observed radius unlikely to be caused by a ring system.
+		7.687980e+8	Lunar Orbit					
+tau ceti	1.102000e+9	Tau Ceti					Tau Ceti is a G-type main sequence star like the sun, and the closest single G star. It has a planetary system with at least 4 planets, but it could have many more.
+toliman		1.194000e+9	Toliman						Toliman, also known as Alpha Centauri B, is the second closest star to Earth (not including the sun.) It is slightly smaller than the sun.
+sun		1.393000e+9	Sun						The sun is the brightest star in Earth's sky. When viewed from Earth, it is more than 10 billion times brighter than any other star.
+rigil kentaurus	1.690000e+9	Rigil Kentaurus					Alpha Centauri is a triple star system, and the closest extrasolar system to Earth. The largest star in the system is slightly larger than the sun. Rigil Kentaurus and Toliman form a binary star with Proxima Centauri orbiting much further away.
+sirius a	2.381000e+9	Sirius A					Sirius is the brightest star in the night sky. Sirius A has significantly more heavy elements than the sun. This is likely due to absorbing material ejected from when Sirius B ejected most of its mass in its red giant stage.
+fomalhaut	2.563000e+9	Fomalhaut					Fomalhaut is a star with many debris disks around it. It also has one of the first exoplanets to be directly imaged.
+altair		2.790000e+9	Altair						Altair rotates around its axis in less than 8 hours. This significantly flattens it from a spherical shape. This also makes the poles of the star brighter and hotter than the equator.
+procyon a	2.847000e+9	Procyon A					Procyon is an F-type main sequence star about 50% more massive than the sun. It is expected to become a red giant in the next 100 million years.
+algol a		3.790000e+9	Algol A						Algol is a triple star system. The names listed here (A, B, and C) are actually not the more common Aa1, Aa2, and Ab. I couldn't find any information on why they're labelled as if they were a component of a multiple system. They're the only stars in the system, so there's no reason to name them all Algol A.
+vega		3.917000e+9	Vega						Vega is the 6th brightest star in Earth's sky. It was the first star to be photographed. Unlike other quickly rotating stars, Vega doesn't appear to be flattened from Earth because its axis points near the Solar System.
+algol b		4.840000e+9	Algol B						Algol A has over 4 times the mass of Algol B, but Algol B is still larger. This is because Algol B is a subgiant but Algol A is a main sequence star. When Algol B expanded, it transferred some of its mass to Algol A.
+castor ba	4.587000e+9	Castor Ba					Castor is a star system with 6 stars, 2 A-type stars and 4 red dwarfs. Castor Ba is the largest of these 6 stars. It is the second brightest star in the constellation Gemini.
+regulus aa	6.050000e+9	Regulus Aa					Regulus is one of the brightest subgiant stars in the sky. Its light is frequently blocked by the moon, planets, and sometimes smaller objects due to it being near the ecliptic plane where Earth is. It rotates every 16 hours, distorting its shape and affecting the orbit of its white dwarf companion.
+bellatrix	7.990000e+9	Bellatrix					Bellatrix is a B-type main sequence star in the constellation Orion. It was originally believed to be a giant star, but soon (astronomically) it will actually be a giant star.
+pollux		1.259000e+10	Pollux						Pollux is the brightest star in the constellation Gemini. Pollux and Castor give the constellation Gemini (Latin for twins) its name. Although Pollux is a single giant star, unlike Castor's 6 main-sequence stars, it does have one planet a few times the mass of Jupiter.
+achernar a	1.270000e+10	Achernar A					Achernar is the least spherical star known. This is because of its high rotation rate. Its equatorial radius is 35% larger than its polar radius.
+human genomes	1.655684e+10	All Human Genomes				(Calculated with a human population of 8.013 billion, 50.3% female and 49.7% male) (Also please note that each individual has billions of copies of their genome, but only 1 was used here)
+capella aa	1.660000e+10	Capella Aa					Capella is the seventh brightest star in Earth's sky. It is a system of two yellow giant stars and two red dwarfs. Capella Aa is currently expanding into a red giant.
+sag astar	2.360000e+10	Sagittarius A*					
+arcturus	3.530000e+10	Arcturus					Arcturus is a red giant about the mass of the sun. It is very similar to what our sun will be like soon after it runs out of hydrogen for fusion. Millions of years from now, Arcturus will finish expanding and start fusing helium in its core.
+polaris aa	5.210000e+10	Polaris						
+aldebaran	6.270000e+10	Aldebaran					
+canopus		1.020000e+11	Canopus						
+rigel		1.100000e+11	Rigel						Rigel is a blue supergiant star. In the 8 million years it has existed, it already used all of the hydrogen in its core and is now fusing helium.
+gacrux		1.670000e+11	Gacrux						The name Gacrux is a shortened form of Gamma Crux, since Gacrux is the 3rd brightest star in the constellation Crux. Similarly, The brightest star is named Acrux (A for alpha). The second brightest isn't usually called Becrux though.
+deneb		2.820000e+11	Deneb						Unlike the other two stars of the Summer Triangle (Vega and Altair), Deneb is a supergiant star that rotates slowly. In about 8000 years, Deneb will become the North Star due to Earth's axial precession.
+earthorbit	2.991960e+11	Earth's Orbit					Earth orbits the sun in an elliptical orbit. The average distance from Earth to the sun is about 1 astronomical unit.
+pistol star	5.800000e+11	Pistol Star					The Pistol Star is a blue hypergiant star a few million times as bright as the sun. It is located near the center of the Milky Way Galaxy.
+antares a	9.500000e+11	Antares A					Antares is a red supergiant star, having about 12 times the mass of the sun but over 200 million times the volume. Stars like Antares are very large and vary in size over time. This is a typical size for Antares.
+vv cephei a	1.080000e+12	VV Cephei A					
+betelgeuse	1.300000e+12	Betelgeuse					
+mu cephei	1.350000e+12	Mu Cephei					
+m31star		1.360000e+12	Andromeda Galaxy Central Black Hole		The Andromeda Galaxy is less than twice the mass of the Milky Way, but its black hole is more than 50 times as massive. When the black holes collide in several billion years, this one will contribute most of the mass.
+v602 carinae	1.500000e+12	V602 Carinae					
+hr 5171 aa	1.550000e+12	HR 5171Aa					See HR 5171A for more details.
+vy canis major	2.000000e+12	VY Canis Majoris				VY Canis Majoris was once known as the largest known star. Its size is much harder to measure than other supergiant stars because of its changing size and circumstellar envelope.
+woh g64		2.140000e+12	WOH G64						WOH G64 may be the largest star in the entire Large Magellanic Cloud. It ejects more than 100 Earth masses of material every year, and is near estimates of the largest supergiants possible, although some measurements have given it an even larger size.
+uy scuti	2.400000e+12	UY Scuti					Very large stars such as UY Scuti are difficult to measure. It is known to be very big, but not how big. Measurements have given its size to be about 1-2.4 Tm.
+hr 5171 a	2.500000e+12	HR 5171A					HR 5171 is a triple star system with three supergiant stars. HR 5171A is a binary system with the two stars sharing their outer envelopes. HR 5171Aa and HR 5171Ab are expected to either eject their surrounding gas or merge into a single star.
+stephenson 2-18	3.000000e+12	Stephenson 2-18					Stephenson 2-18 may be the largest known star, although there is a lot of uncertainty about its size (and most of its other properties.)
+neptuneorbit	9.029906e+12	Neptune's Orbit					Neptune is the farthest known planet orbiting the sun, typically 30 times further from it than Earth.
+kuiper		1.500000e+13	Kuiper Belt					
+m87star		3.720000e+13	M87*						M87* is the black hole at the center of the galaxy Messier 87. It was the first black hole to have its accretion disk imaged. It has a mass and radius about 1500 times greater than the black hole in our galaxy's center.
+sednaorbit	1.515000e+14	Sedna's Orbit					
+ton 618		3.900000e+14	TON 618						
+phoenix astar	6.000000e+14	Phoenix A*					
+stingray	1.500000e+15	Stingray Nebula					The stingray nebula is the youngest planetary nebula known. It has been getting dimmer over the last 40 years.
+		4.000000e+15	Egg Nebula					
+homunculus	6.200000e+15	Homunculus Nebula				
+		1.000000e+16	Ant Nebula					
+		1.300000e+16	Calabash Nebula					
+		1.990000e+16	Boomerang Nebula				
+		2.500000e+16	Ring Nebula					
+dumbbell nebula	2.700000e+16	Dumbbell Nebula					
+oort		3.000000e+16	Oort Cloud					
+helix nebula	5.430000e+16	Helix Nebula					
+ngc 2169	6.900000e+16	NGC 2169					If you ask "What is the largest number?" you might get that there is no largest number. Maybe you'll get infinity. Some people would interpret "largest" a physical size and tell you 40. But that's just the biggest number on Earth. And I would tell you the largest number is 37.
+m85-hcc1	1.100000e+17	M85-HCC1					
+crab		1.250000e+17	Crab Nebula					
+orion		2.400000e+17	Orion Nebula					
+		8.550000e+17	North America Nebula				
+m22		9.500000e+17	Messier 22					
+eagle nebula	1.100000e+18	Eagle Nebula					
+m13		1.590000e+18	Messier 13					
+omega cen	1.630000e+18	Omega Centauri					Omega Centauri is the largest globular cluster in the Milky Way Galaxy. It is a group of about ten million stars much closer together than stars near the sun. It may have once been a separate galaxy that was consumed by the Milky Way billions of years ago.
+segue 2		2.100000e+18	Segue 2						Segue 2 is a very small galaxy orbiting the Milky Way Galaxy. It has a few thousand stars and is the least massive galaxy known. It is considered a galaxy because it is mainly held together by dark matter.
+		2.800000e+18	Carina Nebula					
+		1.440000e+19	NGC 604						
+		1.760000e+19	Tarantula Nebula				
+		8.060000e+19	Sagittarius Dwarf Elliptical Galaxy		
+		1.780000e+20	Small Magellanic Cloud				
+		3.050000e+20	Large Magellanic Cloud				
+		3.860000e+20	Cigar Galaxy					
+		5.099000e+20	Black Eye Galaxy				
+		5.782000e+20	Triangulum Galaxy				
+		8.230000e+20	Milky Way Galaxy				
+		8.500000e+20	Sculptor Galaxy					
+		8.800000e+20	Centaurus A					
+		9.100000e+20	Bode's Galaxy					
+		9.560000e+20	Whirlpool Galaxy				
+		1.150000e+21	Hoag's Object					
+		1.440000e+21	Andromeda Galaxy				
+		1.500000e+21	Cartwheel Galaxy				
+		1.660000e+21	Pinwheel Galaxy					
+		2.500000e+21	NGC 4889					
+		2.577000e+21	3C 273 (Relativistic Jet)			
+		3.000000e+21	Antennae Galaxies				
+		3.000000e+21	ESO 444-46					
+		3.100000e+21	NeVe 1						
+		4.000000e+21	Tadpole Galaxy					
+		6.800000e+21	Condor Galaxy					
+		7.000000e+21	Malin 1						
+		1.670000e+22	ESO 383-76					
+		6.000000e+22	IC 1101						Although the visible part of IC 1101 is only about 4 times the size of the Milky Way, it has a diffuse halo of stars around it extending a few million light years, about 6-10 times the size of the Milky Way's halo. IC 1101's stellar halo extends to the edges of its galactic cluster.
+		6.000000e+22	Fornax Cluster					
+		9.000000e+22	Local Group					
+		1.360000e+23	Virgo Cluster					
+		1.040000e+24	Virgo Supercluster				
+		1.500000e+24	Local Void					
+		3.000000e+24	Bootes Void					
+		4.900000e+24	Laniakea Supercluster				
+		5.000000e+24	Eridanus Supervoid				
+		1.000000e+25	Pisces-Cetus Supercluster Complex		The largest collections of galaxies in the universe are galaxy filaments. The Pisces-Cetus Supercluster Complex is the galaxy filament where Earth is located. It has about 1 quintillion stars.
+		1.300000e+25	Sloan Great Wall				The Sloan Great Wall is the largest known galaxy filament and also one of the largest structures possible. Its size is at the theoretical limit for the size of any structure in the universe.
+ltd		1.300000e+26	Observable Universe				Because light only travels at finite speed, and the universe had a beginning, there is a maximum distance we can observe anything. If light didn't have a finite speed, it would be impossible to look somewhere in the sky and not see a star. But because the visible universe has an end, most of the night sky is dark.
+		2.000000e+26	Hercules-Corona Borealis Great Wall		The Hercules-Corona Borealis Great Wall is the largest structure known in the universe. It is a region where gamma-ray bursts are slightly more common. It probably isn't an actual structure.
+comoving	8.860000e+26	Observable Universe (Comoving Distance)		The observable universe contains all things we can currently observe. Since the light from the furthest objects was emitted, they have moved even further from us due to the expanding universe.
+hypersphere	1.500000e+29	Universe (3-sphere, minimum)			The universe is currently believed to have no higher dimensional curvature. If it did have curvature, it could be shaped like a 4-dimensional "hypersphere". Observations have shown that if it is a hypersphere, it must be at least this big.
+all dna		1.700000e+29	Earth's DNA					
+		1.000000e+43430000000	Universe (Inflation)			
