@@ -16,7 +16,7 @@ const w = sotu.width;
 const h = sotu.height;
 
 let totalFrames = 0;
-let s = 1; // scaling of images
+let s = 2; // scaling of images
 let z = 0.0; // zoom level
 let zv = 0; // zoom velocity
 let zto = 0; // zoom to go to automatically
