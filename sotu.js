@@ -58,7 +58,7 @@ let ss = "";
 if (s == 1) {ss = "high";} else if (s == 2) {ss = "med";} else {ss = "low";}
 for (let i = 0; i < imgNames.length; i++) {
  imgs[i] = document.getElementById("p"+i);
- imgs[i].src = "./images-"+ss+"/"+imgNames[i]+".png";
+ imgs[i].src = "/images-"+ss+"/"+imgNames[i]+".png";
 }
 
 //console.log(names[4]);console.log(info[4]);console.log(imgNames[4]);console.log(sizeman[4]);console.log(sizexp[4]);
